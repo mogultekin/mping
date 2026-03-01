@@ -1,6 +1,6 @@
 # mping
 Multiple Ping (Subnet) (Fast) 
-Pings multiple IPs just in seconds.
+<pre>Pings multiple IPs just in seconds.</pre>
 <pre>
 Usage: mping <CIDR|range>
 
