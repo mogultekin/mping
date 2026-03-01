@@ -1,4 +1,4 @@
-# mping
+<pre># mping
 Multiple Ping (Subnet) (Fast) 
 Pings multiple IPs just in seconds.
 
@@ -20,3 +20,4 @@ Example Usage:
 192.168.200.200 0.091 ms
 192.168.200.252 0.51 ms
 192.168.200.254 0.42 ms
+</pre>
